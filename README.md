@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 I am a Computer Science student passionate about problem-solving and building real-world projects.
-Currently focusing on Data Structures, Algorithms, and exploring AI, Web Development, and Data Science.
+Currently focusing on Data Structures, Algorithms, and OOP.
 
 🎯 Goal: Become a professional Software Engineer.
 
