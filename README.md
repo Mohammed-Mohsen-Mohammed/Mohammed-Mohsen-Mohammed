@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Mohsen</h1>
+<h1 align="center">👋 Hi, I'm Mohammed Mohsen</h1>
 <h2 align="center">💻 Computer Science Student | 🚀 Future Software Engineer</h2>
 
 ---
