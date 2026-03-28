@@ -41,9 +41,9 @@ A console-based system built using C++ that manages books, users, and borrowing 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Mohsen2006&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Mohsen-Mohammed&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Mohammed-Mohsen2006&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Mohammed-Mohsen-Mohammed&theme=radical" />
 </p>
 
 ---
