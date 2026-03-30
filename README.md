@@ -38,6 +38,18 @@ A console-based system built using C++ that manages books, users, and borrowing 
 
 ---
 
+### 🎮 Rock Paper Scissors Game
+
+A console-based game built using C++ where the player competes against the computer in multiple rounds.
+
+✨ Features:
+- Play multiple rounds (1 → 10)
+- Random computer choices
+- Game statistics & results
+- Colored console output
+
+🔗 https://github.com/Mohammed-Mohsen-Mohammed/Rock-Paper-Scissors-Game
+
 ## 📊 GitHub Stats
 
 <p align="center">
