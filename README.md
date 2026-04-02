@@ -65,7 +65,7 @@ A simple and interactive Rock-Paper-Scissors console game built using C++, where
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Mohammed-Mohsen2006">
+  <a href="https://www.linkedin.com/in/mohammed-mohsen-mohammed">
     <img src="https://img.shields.io/badge/LinkedIn-Mohammed_Mohsen-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:momohsen323@gmail.com">
