@@ -28,7 +28,7 @@ Currently focusing on Data Structures, Algorithms, and OOP.
 
 ---
 
-## 📚 Projects
+# ⭐ Featured Projects
 
 ### 📖 Library Management System
 
@@ -42,13 +42,14 @@ A console-based system built using C++ that manages books, users, and borrowing 
 
 A simple and interactive Rock-Paper-Scissors console game built using C++, where the player competes against the computer in multiple rounds.
 
-✨ Features:
-- Play multiple rounds (1 → 10)
-- Random computer choices
-- Game statistics & results
-- Colored console output
-
 🔗 https://github.com/Mohammed-Mohsen-Mohammed/Rock-Paper-Scissors-Game
+
+---
+### 🧮 Math Quiz Game
+
+Console-based math quiz with multiple difficulty levels and performance tracking.
+
+🔗 https://github.com/Mohammed-Mohsen-Mohammed/Math-Quiz-Game
 
 ---
 
