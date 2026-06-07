@@ -28,28 +28,14 @@ Currently focusing on Data Structures, Algorithms, and OOP.
 
 ---
 
-# ⭐ Featured Projects
+## 🏦 My Projects
+These projects represent my journey from learning fundamentals to building real applications.
 
-### 📖 Library Management System
-
-A console-based system built using C++ that manages books, users, and borrowing operations.
-
-🔗 https://github.com/Mohammed-Mohsen2006/Library-Management-System
-
----
-
-### 🎮 Rock Paper Scissors Game
-
-A simple and interactive Rock-Paper-Scissors console game built using C++, where the player competes against the computer in multiple rounds.
-
-🔗 https://github.com/Mohammed-Mohsen-Mohammed/Rock-Paper-Scissors-Game
-
----
-### 🧮 Math Quiz Game
-
-Console-based math quiz with multiple difficulty levels and performance tracking.
-
-🔗 https://github.com/Mohammed-Mohsen-Mohammed/Math-Quiz-Game
+### ⚙️ C++ Projects (Foundations)
+- 🔗 [**Bank Management System**](https://github.com/Mohammed-Mohsen-Mohammed/Bank-Management-System)
+- 🔗 [**Math Quiz Game**](https://github.com/Mohammed-Mohsen-Mohammed/Math-Quiz-Game)
+- 🔗 [**Rock Paper Scissors Game**](https://github.com/Mohammed-Mohsen-Mohammed/Rock-Paper-Scissors-Game)
+- 🔗 [**Library Management System**](https://github.com/Mohammed-Mohsen2006/Library-Management-System)
 
 ---
 
@@ -69,7 +55,7 @@ Console-based math quiz with multiple difficulty levels and performance tracking
   <a href="https://www.linkedin.com/in/mohammed-mohsen-mohammed">
     <img src="https://img.shields.io/badge/LinkedIn-Mohammed_Mohsen-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:momohsen323@gmail.com">
+  <a href="mailto:mohammedmohsen3186@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
