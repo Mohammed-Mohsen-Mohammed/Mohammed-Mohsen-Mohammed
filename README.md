@@ -1,8 +1,5 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Developer GIF" />
-</div>
-
-<div align="center">
 
 # Hi, I'm Mohammed Mohsen 👋
 
@@ -11,8 +8,6 @@
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=650&lines=Building+my+Backend+Development+journey;Learning+C%23+%7C+.NET+%7C+SQL+Server;Turning+knowledge+into+real+projects;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing SVG">
 </p>
-
-</div>
 
 ---
 
@@ -30,114 +25,34 @@ I'm interested in writing clean, maintainable code and continuously improving my
 
 ---
 
-## 🧭 Backend Development Journey
-
-```text
-C++ & Programming Fundamentals
-              ↓
-      OOP & Problem Solving
-              ↓
-     Data Structures & Algorithms
-              ↓
-             C#
-              ↓
-            .NET
-              ↓
-         SQL Server
-              ↓
-    Backend Development
-```
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Technologies
+## 🛠️ Skills & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,mysql">
-</p>
-
-### Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,sqlserver,visualstudio,vscode,git,github">
 </p>
 
 ---
 
-## 🔥 Current Focus
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-Currently%20Learning-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-Currently%20Learning-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL%20Server-Currently%20Learning-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-</p>
-
-* Building practical projects while learning
-* Strengthening backend development fundamentals
-* Working with databases
-* Improving problem-solving skills
-* Writing clean and maintainable code
-
----
-
-## 🚀 Featured Projects
-
-### 🏦 Bank Management System
-
-C++ console-based banking application focused on OOP, file handling, client management, transactions, and practical problem-solving.
-
-**[View Repository →](https://github.com/Mohammed-Mohsen-Mohammed/Bank-Management-System)**
-
-### 📚 Library Management System
-
-C++ project built to practice object-oriented programming while developing a practical management system.
-
-**[View Repository →](https://github.com/Mohammed-Mohsen2006/Library-Management-System)**
-
-### 🧮 Math Quiz Game
-
-C++ console application featuring dynamic questions, difficulty levels, scoring, and randomized gameplay.
-
-**[View Repository →](https://github.com/Mohammed-Mohsen-Mohammed/Math-Quiz-Game)**
-
-### ✊ Rock Paper Scissors
-
-C++ console game built to practice enums, structs, functions, randomization, and core programming concepts.
-
-**[View Repository →](https://github.com/Mohammed-Mohsen-Mohammed/Rock-Paper-Scissors-Game)**
-
----
-
-<details>
-<summary><b>📊 GitHub Stats</b></summary>
-
-<br>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Mohsen-Mohammed&show_icons=true&hide_border=true">
+  <img width="80%" src="https://streak-stats.demolab.com?user=Mohammed-Mohsen-Mohammed&theme=vitesse&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mohammed-Mohsen-Mohammed&hide_border=true">
-</p>
-
-</details>
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-mohsen-mohammed">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/mohammed-mohsen-mohammed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mohammedmohsen3186@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/201018586742" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
-<p align="center">
-  <i>Learn • Build • Improve • Repeat 🚀</i>
-</p>
+</div>
