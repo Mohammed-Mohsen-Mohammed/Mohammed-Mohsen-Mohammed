@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Developer GIF" />
 
-# Hi, I'm Mohammed Mohsen 👋
+  # Hi, I'm Mohammed Mohsen 👋
+  ### Computer Science Student | Aspiring Backend Developer
 
-### Computer Science Student | Aspiring Backend Developer
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=650&lines=Building+my+Backend+Development+journey;Learning+C%23+%7C+.NET+%7C+SQL+Server;Turning+knowledge+into+real+projects;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing SVG">
-</p>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=650&lines=Building+my+Backend+Development+journey;Learning+C%23+%7C+.NET+%7C+SQL+Server;Turning+knowledge+into+real+projects;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing SVG">
+  </p>
+</div>
 
 ---
 
@@ -27,8 +27,15 @@ I'm interested in writing clean, maintainable code and continuously improving my
 
 ## 🛠️ Skills & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,sqlserver,visualstudio,vscode,git,github">
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -54,5 +61,3 @@ I'm interested in writing clean, maintainable code and continuously improving my
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
-
-</div>
